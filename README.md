@@ -96,4 +96,6 @@ Those two DNS records are essential, you musn't skip this step. If you're done, 
 
 ![finish](./assets/custom-domain/finish.png)
 
-![preview](./assets
+## **Preview**
+
+![preview](./assets/custom-domain/preview.png)
